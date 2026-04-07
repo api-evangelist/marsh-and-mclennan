@@ -1,7 +1,12 @@
 aid: marsh-and-mclennan
-url: https://raw.githubusercontent.com/api-evangelist/marsh-and-mclennan/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/marsh-and-mclennan/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.marsh-and-mclennan.com
+description: >-
+  Marsh & McLennan Companies is a global professional services firm offering clients
+  advice and solutions in risk, strategy, and people through Marsh, Guy Carpenter,
+  Mercer, and Oliver Wyman.
