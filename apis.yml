@@ -6,7 +6,7 @@ description: >-
   Guy Carpenter, Mercer, and Oliver Wyman. The firm does not currently publish
   a public developer portal or self-service APIs; data exchange with clients
   is conducted through engagement-specific integrations.
-type: Company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/marsh-and-mclennan/refs/heads/main/apis.yml
