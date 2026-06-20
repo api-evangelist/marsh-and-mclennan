@@ -7,7 +7,7 @@ description: >-
   a public developer portal or self-service APIs; data exchange with clients
   is conducted through engagement-specific integrations.
 kind: company
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/marsh-and-mclennan/refs/heads/main/apis.yml
 tags:
