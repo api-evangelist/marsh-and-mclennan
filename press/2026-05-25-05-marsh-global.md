@@ -1,7 +1,9 @@
 ---
 title: Marsh Global
 url: https://www.facebook.com/MarshGlobal1/posts/new-release-today-marsh-announced-the-launch-of-risk-companion-the-next-iteratio/1420657280100474/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marsh & McLennan" press release artificial intelligence'
 position: 5
 source: serpapi-google

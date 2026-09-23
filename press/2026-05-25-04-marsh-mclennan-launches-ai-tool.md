@@ -1,7 +1,9 @@
 ---
 title: Marsh McLennan launches AI tool
 url: https://www.captiveinternational.com/news/marsh-mclennan-launches-ai-tool
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marsh & McLennan" press release artificial intelligence'
 position: 4
 source: serpapi-google

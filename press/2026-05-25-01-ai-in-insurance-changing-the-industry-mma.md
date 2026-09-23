@@ -1,7 +1,9 @@
 ---
 title: 'AI in Insurance: Changing the Industry | MMA'
 url: https://www.marshmma.com/us/mma/ai-in-insurance.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marsh & McLennan" press release artificial intelligence'
 position: 1
 source: serpapi-google
